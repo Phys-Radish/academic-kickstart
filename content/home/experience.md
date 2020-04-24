@@ -17,28 +17,49 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Reading"
+  company = "Home"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Handan"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+  Reading list:
+  
+  * Introduction to Differential Geometry and General Relativity (Canbin Liang)
+  * Quantum field theory (Bangrong Zhou)
+  * Quantum field theory in Condensed Matter Physics (Nagaosa)
+  
+  """
+  
+  [[experience]]
+  title = "Graduation Project"
+  company = "Shanxi University"
+  company_url = ""
+  location = "Taiyuan"
+  date_start = "2019-03-15"
+  date_end = "2019-05-24"
+  description = """Entangled States and Nonlocality of Quantum Mechanics."""
+
+  
+[[experience]]
+  title = "Condensed Matter Calculation"
+  company = "Shanxi University"
+  company_url = ""
+  location = "Taiyuan"
+  date_start = "2018-03-15"
+  date_end = "2018-06-20"
+  description = """Adjusting the structure and magnetic properties of two-dimensional indium selenide electrons by alternate doping."""
+
+[[experience]]
+  title = "National College Student Innovation and Entrepreneurship Training Program"
+  company = "Shanxi University"
+  company_url = ""
+  location = "Taiyuan"
+  date_start = "2017-01-01"
+  date_end = "2018-01-01"
+  description = """Experimental study of photo-induced atomic desorption on the surface of optical materials."""
 
 +++

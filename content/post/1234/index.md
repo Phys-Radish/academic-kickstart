@@ -10,9 +10,9 @@ authors:
 tags:
   - Demo
 projects:
-  - project
+  - "true"
 image:
-  filename: featured
+  filename: icon-32.png
   focal_point: Smart
   preview_only: false
 ---

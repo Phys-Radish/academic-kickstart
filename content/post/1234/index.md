@@ -8,7 +8,7 @@ featured: false
 authors:
   - Zhe zhao
 tags:
-  - Demo
+  - Other
 projects:
   - "true"
 image:

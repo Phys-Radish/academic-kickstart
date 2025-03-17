@@ -6,7 +6,7 @@ summary: "123"
 draft: false
 featured: false
 authors:
-  - Zhe zhao
+  - "1234"
 tags:
   - Other
 projects:
